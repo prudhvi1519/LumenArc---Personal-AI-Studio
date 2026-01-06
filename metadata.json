@@ -1,0 +1,7 @@
+{
+  "name": "LumenArc — Personal AI Studio",
+  "description": "A polished, responsive chat app that supports multiple chats, streams responses, and provides advanced controls like web search and thinking mode, all with a clean, personal vibe.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
